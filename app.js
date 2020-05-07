@@ -1,4 +1,4 @@
-//simple quiz using focusing on the concept of function constructor, and prototype chain , callback function, closure , and also IIFE
+//simple quiz  focusing on the concept of function constructor, and prototype chain , callback function, closure , and also IIFE
 (function () {
   function Question(question, answers, correct) {
     this.question = question;
